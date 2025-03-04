@@ -74,7 +74,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.16.30</version>
+            <version>1.18.16</version>
             <optional>true</optional>
         </dependency>
         <dependency>
@@ -116,7 +116,7 @@
                         <path>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
-                            <version>1.18.16.30</version>
+                            <version>1.18.16</version>
                         </path>
                         <path>
                             <groupId>org.mapstruct</groupId>
@@ -127,7 +127,7 @@
                         <path>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok-mapstruct-binding</artifactId>
-                            <version>0.2.0</version>
+                            <version>0.2.0.30</version>
                         </path>
                     </annotationProcessorPaths>
                     <compilerArguments>
